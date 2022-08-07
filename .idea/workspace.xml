@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7368f222-df1b-4fdb-9432-988c7047dc2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/translator.py" afterDir="false" />
-    </list>
+    <list default="true" id="7368f222-df1b-4fdb-9432-988c7047dc2e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
